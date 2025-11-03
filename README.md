@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning Information Technology 
 - 💞️ I’m looking to collaborate on like projects that will expand my knowledge on the field.
-- 📫 You can reach me at [Twitter @ShelvinAjevi](https://twitter.com/ShelvinAjevi) , [Youtube  @deviantsoundske](https://youtube.com/deviantsoundske)
+- 📫 You can reach me at [Twitter @ShelvinAjevi](https://twitter.com/ShelvinAjevi) , [Youtube  @shelvinmulefu](https://youtube.com/shelvinmulefu)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShelvinA917&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
