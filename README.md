@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shelvin from Kenya, and I do content on Software Engineering. I really enjoy learning languages and frameworks like Python, C, React and React Native, as well as work in WordPress. I also enjoy ui, ux and design in general.
-- 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Information Technology 
-- 💞️ I’m looking to collaborate on like projects that will expand my knowledge on the field.
+- 👀 Interested in Software development 
+- 🌱 Currently learning Information Technology 
+- 💞️ Looking to collaborate on like projects that will expand my knowledge on the field.
 - 📫 You can reach me at [Twitter @ShelvinAjevi](https://twitter.com/ShelvinAjevi) , [Youtube  @shelvinmulefu](https://youtube.com/shelvinmulefu)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShelvinA917&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
